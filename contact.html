@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacts</title>
+    <link rel="stylesheet" href="stylepage2.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="/index.html">Home</a>
+            <a href="/attraction1.html">Attractions</a>
+            <a href="">Contacts</a>
+            <a href="/about.html">About</a>
+        </nav>
+
+    </header>
+    <h1>Contacts</h1>
+    <main>
+
+    
+    <section class="form">
+        <h2>User Info</h2>
+        <form action="https://httpbin.org/get" method="get">
+        <label for="Firstname">First name:</label>
+        <input type="text" name="First name" id="Firstname"
+        required
+        autofocus
+        placeholder="Add your First name"
+        />
+        
+        <br><br>
+        
+        <label for="Lastname">Last name:</label>
+        <input type="text" name="Last name" id="Lastname"
+        required
+        placeholder="Add your Last name"
+        />
+        <br><br>
+
+        <label for="Phonenumber">Phone number:</label>
+        <input type="tel" name="Phone number" id="Phonenumber"
+        required
+        placeholder="Add your Phone number"
+        />
+        <br><br>
+        
+        <label for="email">email:</label>
+        <input type="email" name="email" id="email"
+        required
+        placeholder="Add your email"
+        />
+        <br><br>
+
+        <label for="Password">Password:</label>
+        <input type="password" name="Password" id="Password"
+        required
+        placeholder="Add your Password"
+        />
+        <br><br>
+
+        <label for="Rememberme">Remember me:</label>
+        <input type="checkbox" name="Remember me" id="Rememberme">
+        <br><br>
+
+       
+
+        <h2>Add your comments or questions</h2>
+        <textarea name="Addyourcommentsorquestions" id="Addyourcommentsorquestions" cols="85" rows="10" placeholder="Add your comments or questions"></textarea>
+        <br><br>
+
+         <label for="Subscribetoanewsletter"> Subscribe to a newsletter:</label>
+        <input type="checkbox" name="Subscribe to a newsletter" id="Subscribetoanewsletter">
+        <br><br>
+
+         <button type="reset">Reset</button>
+        <button type="submit">Submit</button>
+        <br><br><br><br>
+
+    </form>  
+    </section>
+
+    </main>
+
+</body>
+</html>
