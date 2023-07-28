@@ -7,7 +7,7 @@ The creation of the tour guide website is driven by the vision of showcasing Lvi
 Overall, the journey of creating the tour guide website would have been a valuable learning experience, enriching my knowledge about Lviv, web development, and the significance of responsible tourism promotion.
 
 ## [Installation](#installation)
-1. Open a Web Browser: Ensure you have a web browser installed on your device. Popular choices include Google Chrome, Mozilla Firefox, Microsoft Edge, or Safari.
+1. Open a Web Browser, choose any of the list: Google Chrome, Mozilla Firefox, Microsoft Edge, or Safari. Ensure you have a web browser installed on your device.
 
 2. Enter the URL: In the address bar of your web browser, type or copy the following URL: https://lviv-guide-tour-fd25e4.netlify.app/index.html
 
@@ -26,7 +26,7 @@ Use the website's navigation menus, links, or buttons to explore different secti
 
 
 ## Credits
-The website was developed in collaboration with Akeel Lashley (linkedin.com/in/akeel-lashley) and Futuretek Academy (https://www.futuretekacademy.com/). 
+The website was developed in collaboration with Akeel Lashley ([linkedin.com/in/akeel-lashley](https://www.linkedin.com/in/akeel-lashley/overlay/contact-info/#:~:text=linkedin.com/in/akeel%2Dlashley)) and Futuretek Academy (https://www.futuretekacademy.com/). 
 
 Some tutorial information was used from the W3Schools website (https://www.w3schools.com). 
 
